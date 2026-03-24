@@ -1,8 +1,8 @@
-# Coherence Research — Publications
+# Coherence Research — Public
 
-This repository is the official publication surface for [Coherence Research](https://coherenceresearch.com), a 501(c)(3) nonprofit advancing rigorous standards for structural integrity in complex systems.
+The open output surface of [Coherence Research](https://coherenceresearch.com), a 501(c)(3) nonprofit advancing rigorous standards for structural integrity in complex systems.
 
-All published work is versioned, integrity-verified, and DOI-registered.
+Everything here is publicly available — specifications, reference implementations, research notes, educational materials, and release artifacts.
 
 ---
 
@@ -15,19 +15,23 @@ All published work is versioned, integrity-verified, and DOI-registered.
 | [`educational/`](educational/) | Overviews, reading paths, glossaries |
 | [`releases/`](releases/) | Versioned release bundles, manifests, integrity verification |
 
+*Reference implementations, conformance tools, and application code will be added as they ship.*
+
 ---
 
 ## Current Publications
 
 ### Standards
 
-**SC-AS — Structural Coherence Anchor Specification** `v1.0`
+**SC-AS — Structural Coherence Anchor Specification** `v1.0`  
 The minimal, self-contained structural foundation from which coherent configurations can be recognized, validated, and maintained across any domain.
 
-- [SC-CORE-000001](standards/SC-CORE/v1.0/) — Core structural specification
-- [SC-AXIOM-000001](standards/SC-AXIOM/v1.0/) — Axiomatic foundations
-- [SC-HDR-000001](standards/SC-HDR/v1.0/) — Canonical document header schema
-- [SC-SCOPE-000001](standards/SC-SCOPE/v1.0/) — Scope and admissibility boundary
+| Document | Role |
+|---|---|
+| [SC-CORE-000001](standards/SC-AS/v1.0/SC-CORE-000001.md) | Core structural specification |
+| [SC-AXIOM-000001](standards/SC-AS/v1.0/SC-AXIOM-000001.md) | Axiomatic foundations |
+| [SC-HDR-000001](standards/SC-AS/v1.0/SC-HDR-000001.md) | Canonical document header schema |
+| [SC-SCOPE-000001](standards/SC-AS/v1.0/SC-SCOPE-000001.md) | Scope and admissibility boundary |
 
 See [`releases/`](releases/) for integrity-verified bundles, Merkle trees, and DOI-registered Zenodo snapshots.
 
