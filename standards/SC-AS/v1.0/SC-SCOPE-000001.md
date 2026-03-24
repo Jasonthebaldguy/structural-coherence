@@ -17,7 +17,7 @@ Canonical Semantic Scope and Non-Prescriptive Clause
 - Superseded By:
 - Header Schema: SC-HDR-000001 (Issuance ID: v11)
 - Integrity:
-  - SHA-256: 5c17fd6f0ec394bb4dada27bbe8e5fbcbd0abd34f6313c5f8417d153b9460b13
+  - SHA-256: 3da0d6a6fa5b796e3e0bb1ca88f1412818bd9e12976b583056734ca44d835e77
   - Release Tag: 2026-03-19__v05
 
 ---

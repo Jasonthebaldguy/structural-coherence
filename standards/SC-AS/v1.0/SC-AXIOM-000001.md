@@ -14,7 +14,7 @@
 - Superseded By:
 - Header Schema: SC-HDR-000001 (Issuance ID: v11)
 - Integrity:
-  - SHA-256: 802b76a9afc6b5503cdf6049bb1f8332f942e687df01d9457893726ca56bc670
+  - SHA-256: e8230190f53d5100e7054506facab4c0414eaedfbbcf23853ed8d1e98fb3b987
   - Release Tag: 2026-03-19__v11l
 
 ---
