@@ -1,21 +1,22 @@
 {
-  "merkle_root": "8038a44578aab8d3e07f41a86be1542307289fa1f2c7fa22a0b4f5b9fe188a72",
+  "algorithm": "SHA-256",
   "leaf_count": 17,
+  "merkle_root": "6808bef6fc741e1fba21ecbe05255f09baaf75adbf9adb2bf4df61467a7ae1c3",
   "leaves": [
     {
-      "path": "SC-AXIOM-000001.pdf",
+      "path": "pdf/SC-AXIOM-000001.pdf",
       "sha256": "e3b264f494aa3dad0a97767098711926cee9263d9ebf7f833361dd4d7bc7f2d3"
     },
     {
-      "path": "SC-CORE-000001.pdf",
+      "path": "pdf/SC-CORE-000001.pdf",
       "sha256": "ff6541c9df3d65c007c2290ea1c062fb1a2f7523dd760f0a006f15b8260c1611"
     },
     {
-      "path": "SC-HDR-000001.pdf",
+      "path": "pdf/SC-HDR-000001.pdf",
       "sha256": "e8a7bc55facf1f43175c189c3f645021ee1d3b272c71fa919752a9e7164b3b08"
     },
     {
-      "path": "SC-SCOPE-000001.pdf",
+      "path": "pdf/SC-SCOPE-000001.pdf",
       "sha256": "aba6133149c77f8cc9c23eecdfbd6a5f56e6400e27e7231ae333918bd9fbf757"
     },
     {
@@ -44,7 +45,7 @@
     },
     {
       "path": "specs/certificates/rcc__SC-HDR-000001__v11__v02.md",
-      "sha256": "01bfc8e7cf0b7188bf62bfa5660f3707d190918ef4588607d5f92a53b0a30188"
+      "sha256": "72febb43313b369442623d8cf37c9ee51ca3e304ffc271559743d2942c865af8"
     },
     {
       "path": "specs/certificates/rcc__SC-SCOPE-000001__v05__v02.md",
@@ -70,6 +71,5 @@
       "path": "specs/stewardship/SC-TM-000001.md",
       "sha256": "2ef6b8f9659251e25cac25e14901cc4d1b55110ac201a2767f0858b6ea413d51"
     }
-  ],
-  "root_computation": "SHA-256 binary tree over sorted artifact hashes"
+  ]
 }

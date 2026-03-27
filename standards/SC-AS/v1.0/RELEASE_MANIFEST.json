@@ -159,8 +159,8 @@
       "artifact_type": "canonical-source",
       "governance_tier": 2,
       "path": "specs/certificates/rcc__SC-HDR-000001__v11__v02.md",
-      "size_bytes": 1814,
-      "sha256": "01bfc8e7cf0b7188bf62bfa5660f3707d190918ef4588607d5f92a53b0a30188"
+      "size_bytes": 1816,
+      "sha256": "72febb43313b369442623d8cf37c9ee51ca3e304ffc271559743d2942c865af8"
     },
     {
       "document_id": "RCC-SC-SCOPE-000001",
